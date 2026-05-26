@@ -1,0 +1,12 @@
+.one, .three {
+    padding: 32px;
+    margin: 12px; 
+}
+
+.two {
+    padding-bottom: 48px;
+}
+
+.three {
+    margin-left: 50%;
+}
